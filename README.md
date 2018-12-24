@@ -25,4 +25,4 @@ CostArray[OTHER_NODE_DISP] = 0
 ```
 
 ## Results
-![lamp.png](./inputs/left4.png) ![output.png](./outputs/4_20_final.jpg)
+![lamp.png](./inputs/left4.png) ![output.png](./outputs/Image4/4_20_final.jpg)
